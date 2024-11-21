@@ -1,13 +1,14 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World ou Olá Mundo</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World ou Olá Mundo, My name is João Elias</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
- Hello 👋, I'm João Elias!
- - Apenas um mero mortal apaixonado por tecnologia, com habilidades em UX/UI, Level design. Crio e Melhoro soluções inovadoras e práticas que realmente ajudam o usuário.
+  Hello 👋, I'm João Elias!
+ - Apenas um mero mortal apaixonado por tecnologia, com habilidades em UX/UI, Level design e Desenvolvimento Front-end.
+Crio e Melhoro soluções inovadoras e práticas que realmente ajudam o usuário.
 Sempre busco novos aprendizados e desafios. Gosto de trabalhar em equipe, colaborar e me comunicar de forma eficaz. 
 Estou sempre aberto a novas ideias e oportunidades de colaboração.
   
