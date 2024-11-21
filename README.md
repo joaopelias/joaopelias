@@ -1,6 +1,6 @@
 <!--título-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h1 style="display: inline-block">Hello World ou Olá Mundo, My name is João Elias</h1></summary>
 </div>
 
@@ -21,7 +21,7 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
 
 <!-- Portfolio -->
 ## Portfolio:
-- <a href="https://www.exemplo.com" target="_blank">Joe the Bee - Game Js</a>
+- <a href="https://joaopelias.github.io/Joe-the-bee-Game/" target="_blank">Joe the Bee - Game Js</a>
 - 
 - 
   
