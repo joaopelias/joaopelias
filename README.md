@@ -39,12 +39,12 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joeliass_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-elias/)
 
-<img align="right" height="auto" width="140" src="https://media.licdn.com/dms/image/v2/D4D22AQEJo1C1_BYDyg/feedshare-shrink_800/feedshare-shrink_800/0/1692450388739?e=2147483647&v=beta&t=BS7ASvI3V4hbFVCB60bQes0PiJlZ7Nfrv9Agi3MdXYM">
-
 <!-- Portfolio -->
 ## Portfolio:
 - <a href="https://joaopelias.github.io/Joe-the-bee-Game/" target="_blank">Joe the Bee - Game Js</a>
 - 
+<img align="right" height="auto" width="170" src="https://media.licdn.com/dms/image/v2/D4D22AQEJo1C1_BYDyg/feedshare-shrink_800/feedshare-shrink_800/0/1692450388739?e=2147483647&v=beta&t=BS7ASvI3V4hbFVCB60bQes0PiJlZ7Nfrv9Agi3MdXYM">
+
 - 
 - 
 
