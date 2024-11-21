@@ -21,9 +21,7 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
 
 <!-- Portfolio -->
 ## Portfolio:
-- <p <a href=">https://joaopelias.github.io/Joe-the-bee-Game/">
-  Joe the Bee - Game Js
-</p></a>
+- <a href="https://www.exemplo.com" target="_blank">Clique aqui</a>
 - 
 - 
   
