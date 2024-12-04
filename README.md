@@ -43,8 +43,6 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
 ## Portfolio:
 - <a href="https://joaopelias.github.io/Joe-the-bee-Game/" target="_blank">Joe the Bee - Game Js</a>
 - <a href="https://www.figma.com/design/0WfAsB5uAzUrSOKeEgGacK/RUBUSN-page?node-id=0-1&t=LuDAXojF1ZnJws9g-1" target="_blank">RUBUSN - Figma Prototype</a>
-- 
-- 
 
 
 ## 🔥 Skills
