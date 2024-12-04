@@ -54,7 +54,7 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" height="auto" width="140" src="https://media.tenor.com/1Ddt8E6IOSMAAAAi/squibby-squibby-cat.gif">
+    <img align="right" height="auto" width="140" src="https://i.gifer.com/gzZ.gif">
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
