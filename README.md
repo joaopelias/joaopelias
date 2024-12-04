@@ -45,7 +45,7 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
 - <a href="https://www.figma.com/design/0WfAsB5uAzUrSOKeEgGacK/RUBUSN-page?node-id=0-1&t=LuDAXojF1ZnJws9g-1" target="_blank">RUBUSN - Figma Prototype</a>
 - 
 - 
-<div class="tenor-gif-embed" data-postid="25190056" data-share-method="host" data-aspect-ratio="1.24031" data-width="100%"><a href="https://tenor.com/view/anime-tea-menhera-chan-gif-25190056">Anime Tea Menhera Chan GIF</a>from <a href="https://tenor.com/search/anime+tea-gifs">Anime Tea GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -54,7 +54,7 @@ Estou sempre aberto a novas ideias e oportunidades de colaboração.
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" height="auto" width="140" src="https://tenor.com/bRRfo.gif">
+    <img align="right" height="auto" width="140" src="https://media.tenor.com/1Ddt86IOSMAAAAi/bRRfo.gif">
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
