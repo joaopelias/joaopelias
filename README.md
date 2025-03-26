@@ -30,7 +30,7 @@
 <!-- Presentation -->
 <p>
   Hello 👋, I'm João Elias!
- - Apenas um mero mortal apaixonado por tecnologia, com habilidades em UX/UI, Level design e Desenvolvimento Front-end.
+ - Apenas um menino apaixonado por tecnologia, com habilidades em UX/UI, Level design e Desenvolvimento Front-end.
 Crio e Melhoro soluções inovadoras e práticas que realmente ajudam o usuário.
 Sempre busco novos aprendizados e desafios. Gosto de trabalhar em equipe, colaborar e me comunicar de forma eficaz. 
 Estou sempre aberto a novas ideias e oportunidades de colaboração.
